@@ -13,14 +13,14 @@ h1{
     color: orange;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
 
 .half-width{
     width: 50%;
-    padding: 2%;
+    padding: 3%;
 }
 
 .half-width img{
